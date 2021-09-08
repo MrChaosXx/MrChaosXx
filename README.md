@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MrChaosXx
-- 👀 I’m interested in fitness💪, gaming🕹 and programming 💻
+- 👋 Hi, I’m @MrChaosXx, I’m new to github 👶🏼
+- 👀 I’m interested in fitness 💪, gaming 🕹 and programming 💻
 - 🌱 I’m currently learning Front-End Engineering (HTML, CSS, JS, React)
 
 <!---
